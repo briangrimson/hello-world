@@ -18,6 +18,11 @@ h1{
     text-align:center;
 }
 
+span.quote{
+    line-height:6vh;
+    font-size:4vh;
+    
+}
 p.portrait{
     padding:5vh 5vw;
     text-align:center;
@@ -37,5 +42,5 @@ hr{
 }
 
 main{
-    padding:25vh 5vw;
+    padding:20vh 5vw;
 }
